@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-petrus.tsx@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrus.tsx@gmail.com)](mailto:gomeslucianogabriel@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-petrus%230958-6633cc?style=flat-square&logo=Discord&logoColor=white&link=mailto:petrus.tsx@gmail.com)](https://discord.com)
 
-🖖 I'm Petrus, mobile developer at [Codeminer42](https://codeminer42.com), electronics student, passionate about developing hybrid software for mobile with **React Native** and hardware like **Arduino** and **ESP32**. I have already won some programming and robotics competitions and I hope one day to be able to live what I **love** and **contribute** as much as possible to everyone who wants the same as me. :)
+🖖 I'm Petrus, mobile developer at [Codeminer42](https://www.codeminer42.com), electronics student, passionate about developing hybrid software for mobile with **React Native** and hardware like **Arduino** and **ESP32**. I have already won some programming and robotics competitions and I hope one day to be able to live what I **love** and **contribute** as much as possible to everyone who wants the same as me. :)
 
 <p align="center">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=petruspierre&show_icons=true&theme=jolly&hide_border=true&hide=stars&count_private=true">
