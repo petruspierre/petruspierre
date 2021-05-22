@@ -18,7 +18,7 @@
   <a href="https://github.com/petruspierre/cidade-de-goias">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petruspierre&repo=cidade-de-goias&theme=jolly&hide_border=true" />
   </a>
-  <a href="https://github.com/petrusiperre/buritibot">
+  <a href="https://github.com/petruspierre/buritibot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petruspierre&repo=buritibot&theme=jolly&hide_border=true" />
   </a>
 </p>
