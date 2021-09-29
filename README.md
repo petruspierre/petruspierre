@@ -15,8 +15,8 @@
 ## Personal projects I'm currently working on
 
 <p align="center">
-  <a href="https://github.com/petruspierre/cch-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petruspierre&repo=cch-1&theme=jolly&hide_border=true" />
+  <a href="https://github.com/petruspierre/resumify">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petruspierre&repo=resumify&theme=jolly&hide_border=true" />
   </a>
   <a href="https://github.com/petruspierre/sergiobot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petruspierre&repo=sergiobot&theme=jolly&hide_border=true" />
